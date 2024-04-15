@@ -1,173 +1,155 @@
-title: Nuxt UI Pro - Landing template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: sudoPanda
+description: jasa pembuatan website.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Jasa Pembuatan Website.
+  description: Pembuatan website dengan kualitas dan harga yang terjangkau.
   headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
-    icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Get started
+    - label: Lihat
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
       to: '#features'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/landing
-      target: _blank
 logos:
-  title: Trusted by the world's best
+  title: Bisa Menggunkan Tools
   icons:
-    - i-simple-icons-amazonaws
-    - i-simple-icons-heroku
+    - i-simple-icons-vuedotjs
+    - i-simple-icons-laravel
+    - i-simple-icons-mysql
+    - i-simple-icons-jss
+    - i-simple-icons-php
+    - i-simple-icons-goland
+    - i-simple-icons-flutter
+    - i-simple-icons-html5
+    - i-simple-icons-github
     - i-simple-icons-netlify
-    - i-simple-icons-vercel
     - i-simple-icons-cloudflare
+    - i-simple-icons-ubuntu
 features:
-  headline: Features
-  title: Why choose our service?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  headline: Fitur
+  title: Kenapa memilih kami?
+  description: Kami mempunyai beberapa fitur yang bisa di pilih.
   items:
-    - title: Easy to use
-      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+    - title: Gampang dipakai
+      description: Kami akan membuat dengan User Interface dan User Experience yang bagus .
       icon: i-heroicons-cog
-    - title: Reliable
-      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+    - title: Dapat Diandalkan
+      description: Dengan menggunakan jasa kami, user tinggal pakai.
       icon: i-heroicons-check
-    - title: Secure
-      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+    - title: Aman
+      description: hostingan akan menggunakan ssl.
       icon: i-heroicons-lock-closed
-    - title: Fast
-      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+    - title: Cepat
+      description: Dalam pengerjaan selalu cepat.
       icon: i-heroicons-rocket-launch
-    - title: Affordable
-      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+    - title: Terjangkau
+      description: Target kami adalah membantu umkm untuk mengembangkan produknya.
       icon: i-heroicons-currency-dollar
-    - title: Scalable
-      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+    - title: Dapat Dikembangi
+      description: User tidak akan hanya mendapatkan website tetapi user juga akan mendapatkan source code.
       icon: i-heroicons-chart-bar
 pricing:
-  headline: Pricing
-  title: A plan for every need
-  description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
+  headline: Harga
+  title: Kategori Website
+  description: Dari landaing page sampai website yang rumit.
   plans:
-    - title: Basic
-      description: A basic plan for individuals.
-      price: $9.99
+    - title: Landing Page
+      description: Website profil perusahaan
+      price: Rp. 500,000
       align: top
-      button:
-        label: Get Started
-        color: gray
       features:
-        - 1 GB Storage
-        - 1 Email Account
-        - 1 Domain
-        - 1 Website
-        - 1 Database
-        - 1 SSL Certificate
-        - 1 Support Ticket
-    - title: Standard
-      description: A standard plan for small teams.
-      price: $19.99
+        - SSL
+        - Domain
+        - Source Code
+    - title: Sistem Perusahaan
+      description: Website yang mempunyai banyak fungsi.
+      price: Rp 1jt - 5jt
       highlight: true
       scale: true
       align: top
-      button:
-        label: Get Started
       features:
-        - 10 GB Storage
-        - 10 Email Accounts
-        - 10 Domains
-        - 10 Websites
-        - 10 Databases
-        - 10 SSL Certificates
-        - 10 Support Tickets
-    - title: Premium
-      description: A premium plan for large teams.
-      price: $29.99
+        - SSL
+        - Domain
+        - Source Code
+        - SQL
+        - Email
+    - title: Sistem Perusahaan Komplex
+      description: Website yang multi fungsi.
+      price: Rp 7jt++
       align: top
-      button:
-        label: Get Started
-        color: gray
       features:
-        - 100 GB Storage
-        - 100 Email Accounts
-        - 100 Domains
-        - 100 Websites
-        - 100 Databases
-        - 100 SSL Certificates
-        - 100 Support Tickets
+        - SSL
+        - Domain
+        - Source Code
+        - SQL
+        - Email
+        - Maintenance 4 bulan
+        - Fitur Komplex
 testimonials:
   headline: Testimonials
-  title: What our customers are saying.
-  description: Proident sunt exercitation minim laborum enim laboris labore esse.
+  title: Testimoni User.
+  description: User memberikan pendapatnya setelah menggunakan jasa kami.
   items:
-    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+    - quote: Desain webnya modern dan fresh, sesuai dengan konsep bisnis saya. Harganya terjangkau.
       author:
-        name: Rose Roberson
-        description: CEO at Company
+        name: Rudi
+        description: Pegawai Klinik
         avatar:
-          src: https://i.pravatar.cc/120?img=1
+          icon: i-simple-icons-funimation
           loading: lazy
-    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+    - quote: Walaupun sudah selesai pengerjaan tapi masih tetap dibantu untuk update dan maintenance websitenya.
       author:
-        name: Chace Rodgers
-        description: CEO at Company
+        name: Tania
+        description: CEO labelbox
         avatar:
-          src: https://i.pravatar.cc/120?img=7
+          icon: i-simple-icons-funimation
           loading: lazy
-    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+    - quote: Mantap pengerjaan nya hanya memakan waktu 3 minggu.
       author:
-        name: Cornelius Sheppard
-        description: CEO at Company
+        name: Herman
+        description: Pegawai Polnep
         avatar:
-          src: https://i.pravatar.cc/120?img=3
+          icon: i-simple-icons-funimation
           loading: lazy
-    - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
+    - quote: Memberikan diskon dan UI & UX nya bagus, dan yang paling penting sangat responsive.
       author:
-        name: Destinee Woods
-        description: CEO at Company
+        name: Enrarne
+        description: Pembuatan Portofolio
         avatar:
-          src: https://i.pravatar.cc/120?img=5
+          icon: i-simple-icons-funimation
           loading: lazy
-    - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
+    - quote: Menggunakan WA API yang bisa terintegrasi langsung dengan sistem. WA API dibuat sendiri jadi tidak perlu menambahkan biaya lagi.
       author:
-        name: Kaleb Mccormick
-        description: CEO at Company
+        name: Renny
+        description: Ketua Jurusan
         avatar:
-          src: https://i.pravatar.cc/120?img=8
+          icon: i-simple-icons-funimation
           loading: lazy
-    - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
+    - quote: Menggunakan WA API, yang bisa untuk membooking jadwal kelas, sehingga sistem kelas menjadi sangat bagus.
       author:
-        name: Jazmin Mccall
-        description: CEO at Company
+        name: Dian
+        description: Pemilik Kelas
         avatar:
-          src: https://i.pravatar.cc/120?img=9
+          icon: i-simple-icons-funimation
           loading: lazy
 cta:
-  title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
-  links:
-    - label: Sign up for free
-      size: xl
+  title: Portofolio
+  photo: public/panda.jpg
+
 faq:
-  title: Frequently asked questions
-  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
+  title: Info FAQ
+  description: Tentang Pembuatan website.
   items:
-    - label: Is this a secure service?
-      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+    - label: Apakah sudah termasuk domain dan hosting?
+      content: Iya, kami sudah memasangkan hosting, jadi user tinggal memakai saja.
       defaultOpen: true
-    - label: How can I cancel my subscription?
-      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
-    - label: How does the free trial work?
-      content: Quis officia commodo magna eu qui aliquip duis.
-    - label: Can I switch plans later?
-      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
-    - label: Do you offer refunds?
-      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
-    - label: Do you offer support?
-      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
+    - label: Apakah source code akan diberikan?
+      content: Iya kami akan memberikan source code.
+    - label: Biasnya berapa lama untuk membuat sistem yang sudah mempunyai database?
+      content: Memerlukan waktu 2-3 minggu.
+    - label: Bagaimana untuk revisi?
+      content: Untuk revisi hanya diberi kesempatan 3x.
+    - label: Apakah bisa maintenance website?
+      content: Tentu saja bisa.
+    - label: Apakah sudah menggunakan ssl?
+      content: Semua website yang di publish sudah menggunakan ssl.
